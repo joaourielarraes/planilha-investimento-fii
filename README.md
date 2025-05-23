@@ -81,12 +81,6 @@ Criado como uma ferramenta educacional e para demonstração prática das funcio
 
 ---
 
-## 🖼️ Prints da Planilha
-
-> *[Insira aqui imagens ou capturas de tela demonstrando o funcionamento da planilha.]*
-
----
-
 ## 📥 Download
 
 Você pode baixar livremente a planilha neste repositório.  
